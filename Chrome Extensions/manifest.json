@@ -1,0 +1,9 @@
+{
+    "name":"Exchange Rate",
+    "version":"1.0",
+    "manifest_version":3,
+    "description":"Extension to convert currency",
+    "action":{
+        "default_popup":"index.html"
+    }
+}
